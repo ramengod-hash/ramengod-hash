@@ -30,12 +30,7 @@ Hello, I'm Ram! I am fluent in numerous programming languages, and I am currentl
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=flat-square)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square)
-![FAISS](https://img.shields.io/badge/FAISS-0466C8?style=flat-square)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![SBERT](https://img.shields.io/badge/SBERT-FF6F00?style=flat-square)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square)
-![Uvicorn](https://img.shields.io/badge/Uvicorn-059669?style=flat-square)
 
 </div>
 
