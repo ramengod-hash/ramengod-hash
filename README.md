@@ -15,7 +15,7 @@ Hello, I'm Ram! I am fluent in numerous programming languages, and I am currentl
 ### Programming Languages
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,html,css,javascript,react,typescript,markdown&perline=8" alt="Languages"/>
+<img src="https://skillicons.dev/icons?i=java,python,html,css,javascript,react,typescript&perline=8" alt="Languages"/>
 
 </div>
 
