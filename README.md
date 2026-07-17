@@ -4,7 +4,7 @@ Hello, I'm Ram! I am fluent in numerous programming languages, and I am currentl
 ## Interests
 - AI & ML
 - Data Science & Analytics
-- Healhcare Technology
+- Healthcare Technology
 - Computational Biology
 - Neurotechnology
 - Software Development
